@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Architecture app</string>
+    <string name="title_1">The phone cannot receive notifications and reminders.</string>
+    <string name="title_2">There is no sound for task reminders.</string>
+    <string name="title_3">After purchasing the PRO version, PRO functions are still not activated.</string>
+    <string name="title_4">If the phone is formatted or replaced, and then the PRO subscription is not activated anymore.</string>
+    <string name="title_5">Synchronize account information on different devices.</string>
+    <string name="title_6">How to import system calendar events?</string>
+    <string name="title_7">How to add widgets?</string>
+    <string name="description">If you did not receive notifications, it may be because you did not give authority to receive notifications from the app. Please follow the steps below</string>
+    <string name="faq">FAQ</string>
+</resources>
